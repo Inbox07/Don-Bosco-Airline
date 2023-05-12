@@ -147,8 +147,8 @@
 		<div class="gtco-container">
 			<div class="row">
 				<div class="col-md-8 col-md-offset-2 text-center gtco-heading">
-					<h2>Most Popular Destination</h2>
-					<p>Dignissimos asperiores vitae velit veniam totam fuga molestias accusamus alias autem provident. Odit ab aliquam dolor eius.</p>
+					<h2>Destinos más populares</h2>
+					<p></p>
 				</div>
 			</div>
 			<div class="row">
@@ -161,8 +161,7 @@
 						</figure>
 						<div class="fh5co-text">
 							<h2>New York, USA</h2>
-							<p>Far far away, behind the word mountains, far from the countries Vokalia..</p>
-							<p><span class="btn btn-primary">Schedule a Trip</span></p>
+							<p><span class="btn btn-primary">Programar un viaje</span></p>
 						</div>
 					</a>
 				</div>
@@ -173,9 +172,8 @@
 							<img src="images/img_2.jpg" alt="Image" class="img-responsive">
 						</figure>
 						<div class="fh5co-text">
-							<h2>Seoul, South Korea</h2>
-							<p>Far far away, behind the word mountains, far from the countries Vokalia..</p>
-							<p><span class="btn btn-primary">Schedule a Trip</span></p>
+							<h2>Seúl, Corea del Sur</h2>
+							<p><span class="btn btn-primary">Programar un viaje</span></p>
 						</div>
 					</a>
 				</div>
@@ -186,9 +184,8 @@
 							<img src="images/img_3.jpg" alt="Image" class="img-responsive">
 						</figure>
 						<div class="fh5co-text">
-							<h2>Paris, France</h2>
-							<p>Far far away, behind the word mountains, far from the countries Vokalia..</p>
-							<p><span class="btn btn-primary">Schedule a Trip</span></p>
+							<h2>Paris, Francia</h2>
+							<p><span class="btn btn-primary">Programar un viaje</span></p>
 						</div>
 					</a>
 				</div>
@@ -202,8 +199,7 @@
 						</figure>
 						<div class="fh5co-text">
 							<h2>Sydney, Australia</h2>
-							<p>Far far away, behind the word mountains, far from the countries Vokalia..</p>
-							<p><span class="btn btn-primary">Schedule a Trip</span></p>
+							<p><span class="btn btn-primary">Programar un viaje</span></p>
 						</div>
 					</a>
 				</div>
@@ -215,9 +211,8 @@
 							<img src="images/img_5.jpg" alt="Image" class="img-responsive">
 						</figure>
 						<div class="fh5co-text">
-							<h2>Greece, Europe</h2>
-							<p>Far far away, behind the word mountains, far from the countries Vokalia..</p>
-							<p><span class="btn btn-primary">Schedule a Trip</span></p>
+							<h2>Grecia, Europa</h2>
+							<p><span class="btn btn-primary">Programar un viaje</span></p>
 						</div>
 					</a>
 				</div>
@@ -229,9 +224,8 @@
 							<img src="images/img_6.jpg" alt="Image" class="img-responsive">
 						</figure>
 						<div class="fh5co-text">
-							<h2>Spain, Europe</h2>
-							<p>Far far away, behind the word mountains, far from the countries Vokalia..</p>
-							<p><span class="btn btn-primary">Schedule a Trip</span></p>
+							<h2>Spaña, Europe</h2>
+							<p><span class="btn btn-primary">Programar un viaje</span></p>
 						</div>
 					</a>
 				</div>
@@ -244,8 +238,7 @@
 		<div class="gtco-container">
 			<div class="row">
 				<div class="col-md-8 col-md-offset-2 text-center gtco-heading animate-box">
-					<h2>How It Works</h2>
-					<p>Dignissimos asperiores vitae velit veniam totam fuga molestias accusamus alias autem provident. Odit ab aliquam dolor eius.</p>
+					<h2>Cómo funciona?</h2>
 				</div>
 			</div>
 			<div class="row">
@@ -254,8 +247,8 @@
 						<span class="icon">
 							<i>1</i>
 						</span>
-						<h3>Lorem ipsum dolor sit amet</h3>
-						<p>Dignissimos asperiores vitae velit veniam totam fuga molestias accusamus alias autem provident. Odit ab aliquam dolor eius.</p>
+						<h3>Registrate</h3>
+						<p></p>
 					</div>
 				</div>
 				<div class="col-md-4 col-sm-6">
@@ -263,8 +256,8 @@
 						<span class="icon">
 							<i>2</i>
 						</span>
-						<h3>Consectetur adipisicing elit</h3>
-						<p>Dignissimos asperiores vitae velit veniam totam fuga molestias accusamus alias autem provident. Odit ab aliquam dolor eius.</p>
+						<h3>Inicia sesión</h3>
+						<p></p>
 					</div>
 				</div>
 				<div class="col-md-4 col-sm-6">
@@ -272,8 +265,8 @@
 						<span class="icon">
 							<i>3</i>
 						</span>
-						<h3>Dignissimos asperiores vitae</h3>
-						<p>Dignissimos asperiores vitae velit veniam totam fuga molestias accusamus alias autem provident. Odit ab aliquam dolor eius.</p>
+						<h3>Disfruta de nuestros servicios</h3>
+						<p></p>
 					</div>
 				</div>
 				
@@ -288,7 +281,7 @@
 		<div class="gtco-container text-center">
 			<div class="display-t">
 				<div class="display-tc">
-					<h1>We have high quality services that you will surely love!</h1>
+					<h1>¡Contamos con servicios de alta calidad que seguro te encantarán!</h1>
 				</div>	
 			</div>
 		</div>
@@ -299,8 +292,8 @@
 
 			<div class="row">
 				<div class="col-md-8 col-md-offset-2 text-center gtco-heading animate-box">
-					<h2>Our Success</h2>
-					<p>Dignissimos asperiores vitae velit veniam totam fuga molestias accusamus alias autem provident. Odit ab aliquam dolor eius.</p>
+					<h2>Nuestro éxitos</h2>
+					<p>Mira nuestros exitos que hemos logrado con Air Don Bosco.</p>
 				</div>
 			</div>
 
@@ -309,26 +302,26 @@
 				<div class="col-md-3 col-sm-6 animate-box" data-animate-effect="fadeInUp">
 					<div class="feature-center">
 						<span class="counter js-counter" data-from="0" data-to="196" data-speed="5000" data-refresh-interval="50">1</span>
-						<span class="counter-label">Destination</span>
+						<span class="counter-label">Destino</span>
 
 					</div>
 				</div>
 				<div class="col-md-3 col-sm-6 animate-box" data-animate-effect="fadeInUp">
 					<div class="feature-center">
 						<span class="counter js-counter" data-from="0" data-to="97" data-speed="5000" data-refresh-interval="50">1</span>
-						<span class="counter-label">Hotels</span>
+						<span class="counter-label">Hoteles</span>
 					</div>
 				</div>
 				<div class="col-md-3 col-sm-6 animate-box" data-animate-effect="fadeInUp">
 					<div class="feature-center">
 						<span class="counter js-counter" data-from="0" data-to="12402" data-speed="5000" data-refresh-interval="50">1</span>
-						<span class="counter-label">Travelers</span>
+						<span class="counter-label">Viajeros</span>
 					</div>
 				</div>
 				<div class="col-md-3 col-sm-6 animate-box" data-animate-effect="fadeInUp">
 					<div class="feature-center">
 						<span class="counter js-counter" data-from="0" data-to="12202" data-speed="5000" data-refresh-interval="50">1</span>
-						<span class="counter-label">Happy Customer</span>
+						<span class="counter-label">Cliente feliz</span>
 
 					</div>
 				</div>
@@ -343,23 +336,7 @@
 		<div class="gtco-container">
 			<div class="row animate-box">
 				<div class="col-md-8 col-md-offset-2 text-center gtco-heading">
-					<h2>Subscribe</h2>
-					<p>Be the first to know about the new templates.</p>
-				</div>
-			</div>
-			<div class="row animate-box">
-				<div class="col-md-8 col-md-offset-2">
-					<form class="form-inline">
-						<div class="col-md-6 col-sm-6">
-							<div class="form-group">
-								<label for="email" class="sr-only">Email</label>
-								<input type="email" class="form-control" id="email" placeholder="Your Email">
-							</div>
-						</div>
-						<div class="col-md-6 col-sm-6">
-							<button type="submit" class="btn btn-default btn-block">Subscribe</button>
-						</div>
-					</form>
+					<h2>¡Hey pasalo bien!</h2>
 				</div>
 			</div>
 		</div>
@@ -371,14 +348,18 @@
 
 				<div class="col-md-4">
 					<div class="gtco-widget">
-						<h3>About Us</h3>
-						<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore eos molestias quod sint ipsum possimus temporibus officia iste perspiciatis consectetur in fugiat repudiandae cum. Totam cupiditate nostrum ut neque ab?</p>
+						<h3>Sobre Nosotros</h3>
+						<p>Air Don Bosco es un sitio web de reserva de vuelos de avión, 
+							a raíz de que hay ocasiones las cuales no logran abordar al 
+							avión por falta de tiempo, por ello crearemos esta web app 
+							la cual cuente con un diseño agradable y fácil de poder 
+							utilizar.</p>
 					</div>
 				</div>
 
 				<div class="col-md-2 col-md-push-1">
 					<div class="gtco-widget">
-						<h3>Destination</h3>
+						<h3>Destino</h3>
 						<ul class="gtco-footer-links">
 							<li><a href="#">Europe</a></li>
 							<li><a href="#">Australia</a></li>
@@ -391,7 +372,7 @@
 
 				<div class="col-md-2 col-md-push-1">
 					<div class="gtco-widget">
-						<h3>Hotels</h3>
+						<h3>Hoteles</h3>
 						<ul class="gtco-footer-links">
 							<li><a href="#">Luxe Hotel</a></li>
 							<li><a href="#">Italy 5 Star hotel</a></li>
@@ -404,11 +385,11 @@
 
 				<div class="col-md-3 col-md-push-1">
 					<div class="gtco-widget">
-						<h3>Get In Touch</h3>
+						<h3>Ponerse en contacto</h3>
 						<ul class="gtco-quick-contact">
 							<li><a href="#"><i class="icon-phone"></i> +1 234 567 890</a></li>
-							<li><a href="#"><i class="icon-mail2"></i> info@freehtml5.co</a></li>
-							<li><a href="#"><i class="icon-chat"></i> Live Chat</a></li>
+							<li><a href="#"><i class="icon-mail2"></i> airdb@gmail.com</a></li>
+							<li><a href="#"><i class="icon-chat"></i> Chat en vivo</a></li>
 						</ul>
 					</div>
 				</div>
@@ -419,7 +400,7 @@
 				<div class="col-md-12">
 					<p class="pull-left">
 						<small class="block">&copy; 2023</small> 
-						<small class="block">Designed by <a href="https://freehtml5.co/" target="_blank">FreeHTML5.co</a> Demo Images: <a href="http://unsplash.com/" target="_blank">Unsplash</a></small>
+						<small class="block">Diseñada por lo : TILINES SI QUE SI!</a></small>
 					</p>
 					<p class="pull-right">
 						<ul class="gtco-social-icons pull-right">
